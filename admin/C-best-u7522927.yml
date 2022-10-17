@@ -1,0 +1,17 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+
+
+declaration: >-
+  I submit the work below for assessment as my best work. I declare that this
+  is entirely my own work. 
+
+# I wish to submit the following methods as entirely my own (remove this if
+# you want to just submit classes):
+method:
+   - CatanDice.canDosequence(String[] actions,String board_state,int[] resource_state) (https://gitlab.cecs.anu.edu.au/u7545926/comp1110-ass2/-/blob/main/src/comp1110/ass2/CatanDice.java#L1115-1200)
+   - CatanDice.pathTo(String target_structure,String board_state) (https://gitlab.cecs.anu.edu.au/u7545926/comp1110-ass2/-/blob/main/src/comp1110/ass2/CatanDice.java#L1220-1260)
+
+# sign *your* name and uid here
+name: Preshtibye Raggoo
+uid: u7522927
