@@ -242,3 +242,9 @@ other words, the game does not depend on any features not self-contained
 within that jar file and the Java 17 runtime.
 
 
+
+
+(The game can be update for a multiplayer inferface)
+
+
+
